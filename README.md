@@ -1,2 +1,2 @@
 # roboshop-shell
-demo project with shell only
+demo project with shell scripts 
